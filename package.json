@@ -1,0 +1,14 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "this is my first project in my learning journey",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
